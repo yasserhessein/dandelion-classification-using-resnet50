@@ -20,8 +20,7 @@ These are images of dandelions and not-dandelions. Basically grass or other. Goa
 
 3-Images/dandelionvother = kinda' a mistake this dir gets created during training. Should be cleared out on each training.
 
-Dataset:
-
+Dataset :
 
 https://www.kaggle.com/coloradokb/dandelionimages
 
