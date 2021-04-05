@@ -22,9 +22,9 @@ These are images of dandelions and not-dandelions. Basically grass or other. Goa
 
 Dataset :
 
-https://www.kaggle.com/coloradokb/dandelionimages
 
-[The Cancer Imaging Archive.](https://doi.org/10.7937/tcia.2019.dc64i46r)
+
+[Link.](https://www.kaggle.com/coloradokb/dandelionimages)
 
 If you want help plz contact me
 
